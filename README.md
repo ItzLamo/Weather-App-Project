@@ -9,5 +9,7 @@ User-Friendly Interface: Clean and attractive GUI with intuitive controls.
 
 # How to Use
 Enter the name of the city in the input field.
+
 Click on the "Get Weather" button.
+
 View the weather details and local time for the city.
