@@ -53,7 +53,7 @@ def get_weather():
 
 # GUI Setup
 root = tk.Tk()
-root.title("Enhanced Weather App")
+root.title("Weather App")
 root.geometry("500x500")
 root.resizable(False, False)
 root.config(bg="#87CEEB")  # Light sky blue background
