@@ -3,8 +3,11 @@ This is a graphical weather application built using Python and Tkinter. The app 
 
 # Features
 Real-Time Weather Updates: Displays temperature, humidity, pressure, wind speed, and a weather description.
+
 Dynamic Weather Icons: Changes the weather icon dynamically based on the current weather condition.
+
 Local Time: Displays the local time of the entered city.
+
 User-Friendly Interface: Clean and attractive GUI with intuitive controls.
 
 # How to Use
